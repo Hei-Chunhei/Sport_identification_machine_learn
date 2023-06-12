@@ -10,7 +10,7 @@ This Colab notebook showcases a machine learning project focused on accurately i
 
 Key Features:
 
-* Data Collection and Preparation: Gathered a diverse and labeled dataset of sports images, including basketball, soccer, tennis, baseball, and more. Conducted data preprocessing, including resizing, normalization, and augmentation, to enhance model performance.
+* Data Collection and Preparation: Data info from Kaggle, including basketball, soccer, tennis, baseball, and more. Conducted data preprocessing, including resizing, normalization, and augmentation, to enhance model performance.
 * Model Architecture: Implemented and fine-tuned deep learning architectures, such as Convolutional Neural Networks (CNNs) and Transfer Learning, to extract relevant features from sports images.
 * Training and Evaluation: Trained the models using the prepared dataset, optimizing hyperparameters and employing techniques like cross-validation for accurate performance evaluation.
 * Model Selection: Explored and compared different models to identify the most effective and accurate one for sport identification.
